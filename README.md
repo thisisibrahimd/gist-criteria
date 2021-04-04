@@ -1,4 +1,4 @@
-# Eligibility Criteria Datbase
+# Eligibility Criteria Database
 
 These csv data files contains example eligibility criteria for clinical trials.
 
